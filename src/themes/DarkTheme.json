@@ -1,0 +1,11 @@
+{
+    "dark": true,
+    "colors": {
+        "primary": "#E2FFF7",
+        "background": "#1E1E1E",
+        "card": "#47D6B0",
+        "text": "#FFFFFF",
+        "border": "#E2FFF7",
+        "notification": "#76E0C4"
+    }
+}
